@@ -9,7 +9,7 @@
 | 🟩 value             | 🟩 if                 | 🟦 recursion          | 🟩 array            | 🟦 refactoring       |
 | 🟩 identifier        | 🟦 loops              | 🟩 function           | 🟦 instance         | 🟩 code review       |
 | 🟩 variable          | 🟦 assignment         | 🟦 return             | 🟩 object           | 🟦 antipatterns      |
-| 🟩 constant          | 🟨 prototype          | 🟦 signature          | 🟦 collection       | 🟦 paradigm          |
+| 🟩 constant          | 🟩 prototype          | 🟦 signature          | 🟦 collection       | 🟦 paradigm          |
 | 🟦 scalar            | 🟦 class              | 🟩 argument           | 🟦 hash table       | 🟦 algorithm         |
 | 🟩 literal           | 🟩 while              | 🟩 parameter          | 🟦 linked list      | 🟦 magic numbers     |
 | 🟩 expression        | 🟦 do..while          | 🟦 pure function      | 🟦 queue            | 🟦 hardcode          |
@@ -27,7 +27,7 @@
 | 🟩 async function    | 🟨 new Error          | 🟦 factory            | 🟨 string parsing   | ⬜️ prettier          |
 | 🟨 call, bind, apply |                       | 🟦 pool               | 🟨 timers           | 🟦 unittest          |
 | 🟩 Array             |                       | 🟦 wrapper            | 🟨 EventEmitter     | 🟩 git               |
-| 🟨 instanceof        |                       | 🟨 default parameters | 🟨 RegExp           | 🟩 github            |
+| 🟩 instanceof        |                       | 🟨 default parameters | 🟨 RegExp           | 🟩 github            |
 | 🟩 ...spread         |                       |                       | 🟨 global           | 🟨 node.js           |
 | 🟨 ...rest           |                       |                       | 🟨 undefined        | 🟩 npm               |
 | 🟩 typeof            |                       |                       | 🟦 null             |                      |
@@ -63,9 +63,9 @@
 |------------------------|--------------------------------|---------------------|--------------------------|
 | 🟦 Callback-last       | 🟦 Timers                      | 🟦 Event Loop       | ⬜ async.js library      |
 | 🟦 Error-first         | 🟦 setImmediate                | 🟦 Async error      | ⬜ Async composition     |
-| 🟦 Promise             | 🟦 nextTick                    | 🟦 try..catch       | ⬜ Rx.js                 |
-| 🟦 Async function      | ⬜ AbortController             | 🟦 Non-blocking     | 🟦 Sequential async      |
-| 🟦 await               | 🟦 Promise unhandled rejection | 🟦 Async I/O        | 🟦 Parallel async        |
+| 🟩 Promise             | 🟦 nextTick                    | 🟦 try..catch       | ⬜ Rx.js                 |
+| 🟩 Async function      | ⬜ AbortController             | 🟦 Non-blocking     | 🟦 Sequential async      |
+| 🟩 await               | 🟦 Promise unhandled rejection | 🟦 Async I/O        | 🟦 Parallel async        |
 | 🟦 Generator           | 🟦 Promise double resolve      | 🟦 Pattern Reactor  | 🟦 Promise.all           |
 | 🟦 Async Generator     | 🟦 child_process               | ⬜ CAS operations   | 🟦 Promise.allSettled    |
 | 🟦 Async Iterator      | 🟦 worker_threads              | ⬜ epoll            | 🟦 Promise.race          |

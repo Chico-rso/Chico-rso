@@ -4,5 +4,5 @@
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: JavaScript(Vue)</code>
+<code>🧑‍💻 Languages: JavaScript(Vue/Nuxt)</code>
 <code>🪙 [Rates](RATES.md)</code><br>

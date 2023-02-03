@@ -31,7 +31,7 @@ Hi! I am a front-end developer, specializing in creating modern and interactive 
 
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can find me on:
 
-- [Telegram](@AmiranBestaev)
+- [Telegram](@AmiranBestaev/t.me)
 - Email: AmiranBestaev@gmail.com
 
 Thanks for visiting my GitHub page!

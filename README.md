@@ -14,7 +14,7 @@ Hi! I am a front-end developer, specializing in creating modern and interactive 
 ## Skills and Technologies
 
 - HTML5
-- CSS3
+- CSS3, SCSS
 - JavaScript
 - Vue.js
 - Nuxt.js

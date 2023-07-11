@@ -26,6 +26,7 @@ Hi! I am a front-end developer, specializing in creating modern and interactive 
 
 - [vkusnoibistro](https://www.vkusnoibistro.com/application/): Food ordering service
 - [itinvest](https://itinvest.ru/): Investment company
+- [zvet](https://zvet.ru/): Furniture store
 
 ## Contact Me
 

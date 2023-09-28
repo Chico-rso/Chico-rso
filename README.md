@@ -1,4 +1,3 @@
-<code>FES</code>
 <code>⚪ Community: O2</code>
 <code>👷 Speciality: Front-End</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
@@ -16,6 +15,7 @@ Hi! I am a front-end developer, specializing in creating modern and interactive 
 - HTML5
 - CSS3, SCSS
 - JavaScript
+- Typescript
 - Vue.js
 - Nuxt.js
 - Git
